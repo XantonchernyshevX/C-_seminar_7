@@ -1,0 +1,15 @@
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.csproj.AssemblyReference.cache
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.AssemblyInfoInputs.cache
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.AssemblyInfo.cs
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.csproj.CoreCompileInputs.cache
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\bin\Debug\net6.0\HW_03.exe
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\bin\Debug\net6.0\HW_03.deps.json
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\bin\Debug\net6.0\HW_03.runtimeconfig.json
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\bin\Debug\net6.0\HW_03.dll
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\bin\Debug\net6.0\HW_03.pdb
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.dll
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\refint\HW_03.dll
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.pdb
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\HW_03.genruntimeconfig.cache
+C:\Users\Anton Chernyshev\Desktop\Tasks\C#_seminar_7\HW_03\obj\Debug\net6.0\ref\HW_03.dll
